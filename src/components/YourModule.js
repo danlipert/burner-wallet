@@ -88,7 +88,7 @@ export default class YourModule extends React.Component {
         <div className="form-group w-100">
 
           <div style={{width:"100%",textAlign:"center"}}>
-            YOURMODULE DISPLAY HERE
+            Burner Pointcards
             <Ruler/>
             <div style={{padding:20}}>
               The logged in user is
